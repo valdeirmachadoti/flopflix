@@ -1,0 +1,16 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Front End",
+      "descrcao": "Bacana",
+      "cor": "#cbd1ff"
+    },
+    {
+      "id": 2,
+      "nome": "Back End",
+      "descrcao": "Top demais",
+      "cor": "#cbd1cc"
+    }
+  ]
+}
